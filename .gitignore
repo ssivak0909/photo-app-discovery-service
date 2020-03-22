@@ -1,0 +1,10 @@
+target/classes/com/siva/demy/photoapp/api/users/*/*.class
+target/classes/*.*
+*/*.class
+target/*/*.*
+target/*.jar
+HELP.md
+mvnw.cmd
+photo-app-discovery-service.iml
+.idea/
+target/*
